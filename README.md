@@ -168,21 +168,21 @@ OUTPUT 5 CODE:
 
 ## Output:
 
-![output](./output.jpg)
+![map](https://user-images.githubusercontent.com/118791778/213918932-7e502af7-bfce-409b-9737-228753001a84.png)
 
-![output](./image1.jpg)
+![image1](https://user-images.githubusercontent.com/118791778/213918947-bdb28c56-32b7-4935-a38f-cabca333c62c.png)
 
-![output](./image2.jpg)
+![image2](https://user-images.githubusercontent.com/118791778/213918959-a6399343-ef65-495b-b631-05f9efd7743a.png)
 
-![output](./image3.jpg)
+![image3](https://user-images.githubusercontent.com/118791778/213918974-9cab2bd0-14b8-472d-bd2a-f255440757a1.png)
 
-![output](./image4.jpg)
+![image4](https://user-images.githubusercontent.com/118791778/213918985-1ff49ede-0ed9-4d60-b6f0-4f0c437aad37.png)
 
-![output](./image5.jpg)
+![image5](https://user-images.githubusercontent.com/118791778/213918992-a7a8afdc-4ef5-4afe-952f-94462e75fdba.png)
 
 ### Validation:
 
-![output](./validator.jpg)
+![validator](https://user-images.githubusercontent.com/118791778/213918997-fc703d7b-a484-4ccb-854b-0ccd60712f4b.png)
 
 ## Result:
 
